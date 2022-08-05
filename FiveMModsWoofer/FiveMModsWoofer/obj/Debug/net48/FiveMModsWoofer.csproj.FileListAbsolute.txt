@@ -1,0 +1,13 @@
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\bin\Debug\net48\FiveMModsWoofer.exe.config
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\bin\Debug\net48\FiveMModsWoofer.exe
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\bin\Debug\net48\FiveMModsWoofer.pdb
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.csproj.AssemblyReference.cache
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.AssemblyInfoInputs.cache
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.AssemblyInfo.cs
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.csproj.CoreCompileInputs.cache
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.exe
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.pdb
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.csproj.Fody.CopyLocal.cache
+C:\Users\Micro\source\repos\FiveMModsWoofer\FiveMModsWoofer\obj\Debug\net48\FiveMModsWoofer.csproj.Fody.RuntimeCopyLocal.cache
